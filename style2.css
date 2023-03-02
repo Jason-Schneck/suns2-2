@@ -1,0 +1,22 @@
+*{
+    background-color: salmon;
+}
+.top{
+    display:flex;
+    flex-direction: column;
+}
+.row1{
+    display:flex;
+    justify-content: center;
+}
+.row2{
+    display:flex;
+    justify-content: center;
+}
+
+.gmail{
+    width:50px;
+}
+.insta{
+    width:50px;
+}

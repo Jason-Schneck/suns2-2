@@ -1,0 +1,75 @@
+body{
+    background-image: url(./valley-1.webp);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+.header{
+    display:flex;
+    justify-content: space-between;
+    margin-top: 50px;
+}
+.skills{
+    font-size:xx-large;
+    color:rgb(94, 255, 0);
+    display: flex;
+    align-items: center;
+}
+.contact{
+    font-size: xx-large;
+    color:rgb(94, 255, 0);
+    display: flex;
+    align-items: center;
+}
+
+/* Header^*/
+
+.top{
+    display:flex;
+    justify-content: space-around;
+}
+
+.picture{
+    height:125px;
+    width:125px;
+    border-radius: 50%;
+}
+.aboutInfo{
+    padding-top:1px;
+}
+.btn1{
+    background-color: purple;
+    color:orange;
+}
+.btn2{
+    background-color: black;
+    color:mediumseagreen;
+}
+.btn3{
+    background-color: blue;
+    color:red;
+}
+/* About Box^ */
+
+.projects{
+    margin-top:95px;
+}
+.projectsHeader{
+    margin:20px;
+}
+.projectsInfo{
+    padding-left:20px;
+}
+.profilePage{
+    width:400px;
+    height:245px;
+}
+.github{
+    width:400px;
+    height:225px;
+}
+
+
+/* Projects Box^ */
+
+/* Top^*/
